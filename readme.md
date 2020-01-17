@@ -6,6 +6,7 @@ Don't forget to check the "Allow sound" box and choose one of your screens.
 
 Then, if the visualizer widget in iChannel doesn't work, just replay the shader from the beginning ( |< icon)
 
+Great fractal visualizer by relampago2048: https://www.shadertoy.com/view/llB3W1
 
 Only works on Chrome (missing sound checkbox in Firefox ?).
 
